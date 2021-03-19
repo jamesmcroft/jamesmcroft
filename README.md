@@ -12,6 +12,7 @@
 - 💬 Ask me about **[UWP](https://docs.microsoft.com/en-us/windows/uwp/), [Uno Platform](https://platform.uno/), XAML, [VueJS](https://vuejs.org/), Azure PaaS services, and DevOps** 
 - 📇 Connect on **[Twitter](https://twitter.com/jamesmcroft), [LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
 
+📈 **See what I've been working on**
 <!--START_SECTION:waka-->
 ```text
 Other      55 mins         ███████████████░░░░░░░░░░   60.33 % 
