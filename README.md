@@ -13,4 +13,9 @@
 - 📇 Connect on **[Twitter](https://twitter.com/jamesmcroft), [LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
 
 <!--START_SECTION:waka-->
+```text
+Other      55 mins         ███████████████░░░░░░░░░░   60.33 % 
+C#         32 mins         █████████░░░░░░░░░░░░░░░░   36.01 % 
+Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
 <!--END_SECTION:waka-->
