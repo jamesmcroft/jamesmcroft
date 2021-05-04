@@ -13,6 +13,7 @@
 - 📇 Connect on **[Twitter](https://twitter.com/jamesmcroft), [LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
 
 📈 **See what I've been working on**
+
 <!--START_SECTION:waka-->
 ```text
 YAML     10 hrs 59 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.67 % 
