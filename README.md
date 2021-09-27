@@ -23,3 +23,9 @@ JSON         56 mins         █░░░░░░░░░░░░░░░░
 Other        47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 <!--END_SECTION:waka-->
+
+## Useful Links
+
+When I find something dev related that I want to share, you'll find it in my useful links 🙌🏻
+
+- [James's Useful Links](/docs/README.md)
