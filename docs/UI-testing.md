@@ -62,3 +62,15 @@ The page object pattern is a UI test design pattern that defines a class for rep
 Automate The Planet Learning Series is a GitHub repository containing a series of code samples and articles showcasing the use of various automation patterns and techniques for writing maintainable UI tests.
 
 It covers a variety of languages including C#, Java, Kotlin, and VB.
+
+## Demos
+
+### ToDoer Selenium/Legerity UI Test Demo Project
+
+<https://github.com/jamesmcroft/todoer-ui-test-demo/>
+
+This is an example project showcasing how to write maintainable UI tests using the Selenium framework with C#.
+
+The UI test project uses the [Legerity](#legerity) framework to write the maintainable application element wrappers. It is also used to simplify the approach to launching the application in multiple platform scenarios, such as running on Google Chrome and Microsoft Edge.
+
+The demo showcases some best practices in writing UI tests including the [Page Object Pattern](#page-object-pattern), simplifying interactions with components using UI element wrappers with Legerity, and cross-browser test runs.
