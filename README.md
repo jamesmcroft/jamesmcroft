@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/website-jamescroft.co.uk-blue?color=%2300A1F1&style=flat-square"></a>
   <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jamesmcroft?color=%2300A1F1&style=flat-square"></a>
+  <a href="https://mvp.microsoft.com/en-US/PublicProfile/5001534"><img alt="Microsoft MVP" src="https://img.shields.io/badge/microsoftmvp-Windows%20Development-blue?style=flat-square&logo=microsoft&color=%2300A1F1"></a>
 </p>
 
 - 👨‍💻 I'm currently a Principal Developer at [Razor Ltd](https://www.razor.co.uk/)
