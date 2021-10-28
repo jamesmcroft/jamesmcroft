@@ -9,7 +9,7 @@
 Selenium is an automation framework for web browsers with support for multiple programming languages including C# and JavaScript.
 
 - [Selenium WebDriver C# cheat sheet - automatetheplanet.com](https://www.automatetheplanet.com/selenium-webdriver-csharp-cheat-sheet/)
-- [Running Selenium UI Tests in an Azure DevOps Pipeline](https://www.jamescroft.co.uk/running-selenium-ui-tests-in-an-azure-devops-pipeline/)
+- [Running Selenium UI Tests in an Azure DevOps Pipeline - jamescroft.co.uk](https://www.jamescroft.co.uk/running-selenium-ui-tests-in-an-azure-devops-pipeline/)
 
 ### Appium
 
