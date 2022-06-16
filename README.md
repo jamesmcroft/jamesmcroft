@@ -43,12 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML            0 secs          ████████████████▒░░░░░░░░   65.39 %
-SourceMap      0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
-C++            0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-C#             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Csproj         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-EditorConfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
