@@ -37,17 +37,6 @@
   <img alt="Cloud - Azure" src="https://img.shields.io/badge/Cloud-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white&color=%2300A1F1">
 </p>
 
-
-📈 **See what I've been working on**
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
 <a href="https://github.com/jamesmcroft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmcroft&title_color=000&text_color=8e8e8e&icon_color=00A1F1&bg_color=f6f8fa&langs_count=3" alt="James's Top Languages" />
