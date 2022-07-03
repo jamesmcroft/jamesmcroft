@@ -2,9 +2,9 @@
 
 <h2 align="center">Howdy folks! 👋 I'm James.</h2>
 <p align="center">
-  <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-jamescroft.co.uk-blue?color=%2300A1F1&style=flat-square"></a>
+  <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-jamescroft.co.uk-yellow?color=%23ecb61e&logo=rss&style=flat-square"></a>
   <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jamesmcroft?color=%231d9bf0&label=Twitter&logo=twitter&style=flat-square"></a>
-  <a href="https://stackoverflow.com/users/1488425/james-croft"><img alt="StackOverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/1488425?color=%23f48225&label=StackOverflow&logo=stackoverflow&style=flat-square"/></a>
+  <a href="https://stackoverflow.com/users/1488425/james-croft"><img alt="StackOverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/1488425?color=%23f48225&label=StackOverflow&logo=stackoverflow&style=flat-square"></a>
   <a href="https://mvp.microsoft.com/en-US/PublicProfile/5001534"><img alt="Microsoft MVP" src="https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development-blue?style=flat-square&logo=microsoft&color=%230077d5"></a>
 </p>
 
