@@ -92,7 +92,71 @@
       <a href="https://azure.microsoft.com/en-gb/" target="_blank">
         <img src="./assets/icons/azure.svg" width="48" height="48" alt="Azure" />
       </a>
-      <p>Azure</p>
+      <p>Microsoft Azure</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/services/iot-hub/#overview" target="_blank">
+        <img src="./assets/icons/azure-iot-hub.svg" width="48" height="48" alt="Azure IoT" />
+      </a>
+      <p>Azure IoT</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/services/logic-apps/#overview" target="_blank">
+        <img src="./assets/icons/azure-logic-apps.svg" width="48" height="48" alt="Azure Logic Apps" />
+      </a>
+      <p>Azure Logic Apps</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/services/functions/#overview" target="_blank">
+        <img src="./assets/icons/azure-functions.svg" width="48" height="48" alt="Azure Functions" />
+      </a>
+      <p>Azure Functions</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/products/azure-sql/#overview" target="_blank">
+        <img src="./assets/icons/azure-sql.svg" width="48" height="48" alt="Azure SQL Server" />
+      </a>
+      <p>SQL Server</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/services/cognitive-services/#overview" target="_blank">
+        <img src="./assets/icons/azure-cognitive-services.svg" width="48" height="48" alt="Azure Cognitive Services" />
+      </a>
+      <p>Azure AI/ML</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/services/key-vault/#overview" target="_blank">
+        <img src="./assets/icons/azure-keyvault.svg" width="48" height="48" alt="Azure Key Vault" />
+      </a>
+      <p>Azure Key Vault</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/products/category/storage/" target="_blank">
+        <img src="./assets/icons/azure-storage.svg" width="48" height="48" alt="Azure Storage" />
+      </a>
+      <p>Azure Storage</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/services/stream-analytics/#overview" target="_blank">
+        <img src="./assets/icons/azure-stream-analytics.svg" width="48" height="48" alt="Azure Stream Analytics" />
+      </a>
+      <p>Azure Stream Analytics</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/services/active-directory/#overview" target="_blank">
+        <img src="./assets/icons/azure-ad.svg" width="48" height="48" alt="Azure Active Directory" />
+      </a>
+      <p>Azure Active Directory</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-gb/microsoft-365/compare-microsoft-365-enterprise-plans" target="_blank">
+        <img src="./assets/icons/office.svg" width="48" height="48" alt="Microsoft Office" />
+      </a>
+      <p>Microsoft 365</p>
     </td>
     <td align="center" width="96">
       <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2" target="_blank">
