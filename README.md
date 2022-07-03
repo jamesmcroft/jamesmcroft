@@ -1,6 +1,6 @@
 <img src="https://github.com/jamesmcroft/jamesmcroft/blob/master/assets/PersonalBanner.png" alt="jamesmcroft GitHub banner" />
 
-<h2 align="center">Howdy folks! 👋 I'm James.</h2>
+<h2 align="center">Hey hey 👋 I'm James</h2>
 <p align="center">
   <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-jamescroft.co.uk-yellow?color=%23ecb61e&logo=rss&style=flat-square"></a>
   <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jamesmcroft?color=%231d9bf0&label=Twitter&logo=twitter&style=flat-square"></a>
