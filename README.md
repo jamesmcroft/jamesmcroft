@@ -2,16 +2,23 @@
 
 <h2 align="center">Howdy folks! 👋 I'm James.</h2>
 <p align="center">
-  <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/website-jamescroft.co.uk-blue?color=%2300A1F1&style=flat-square"></a>
-  <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jamesmcroft?color=%2300A1F1&style=flat-square"></a>
-  <a href="https://mvp.microsoft.com/en-US/PublicProfile/5001534"><img alt="Microsoft MVP" src="https://img.shields.io/badge/microsoftmvp-Windows%20Development-blue?style=flat-square&logo=microsoft&color=%2300A1F1"></a>
+  <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-jamescroft.co.uk-blue?color=%2300A1F1&style=flat-square"></a>
+  <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jamesmcroft?color=%231d9bf0&label=Twitter&logo=twitter&style=flat-square"></a>
+  <a href="https://stackoverflow.com/users/1488425/james-croft"><img alt="StackOverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/1488425?color=%23f48225&label=StackOverflow&logo=stackoverflow&style=flat-square"/></a>
+  <a href="https://mvp.microsoft.com/en-US/PublicProfile/5001534"><img alt="Microsoft MVP" src="https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development-blue?style=flat-square&logo=microsoft&color=%230077d5"></a>
 </p>
 
-- 👨‍💻 I'm currently a Principal Developer at [Razor Ltd](https://www.razor.co.uk/)
-- 🏅 Been awarded as a **[Microsoft MVP in Windows Development](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** since 2015
-- 💡 I'm building and maintaining **[MADE.NET](https://github.com/MADE-Apps/MADE.NET)**, **[MADE Uno](https://github.com/MADE-Apps/MADE-Uno)**, **[MADE.js](https://github.com/MADE-Apps/MADE.js)**, **[MADE Vue](https://github.com/MADE-Apps/MADE-Vue)**, **[Legerity](https://github.com/MADE-Apps/legerity)** and **[XPlat Windows APIs](https://github.com/XPlat-Apps/XPlat-Windows-APIs)**
+<a href="#">
+  <img src="https://raw.githubusercontent.com/jamesmcroft/github-stats-transparent/output/generated/overview.svg" alt="jamesmcroft GitHub stats" align="right" />
+</a>
+
+- 👨‍💻 I'm currently a **Principal Solution Engineer at [Razor Ltd](https://www.razor.co.uk/)**
+- 🏅 Been awarded as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** since 2015
+- 💡 I'm working on **libraries to Make App Development Easier ([.NET](https://github.com/MADE-Apps/MADE.NET)**, **[Uno Platform](https://github.com/MADE-Apps/MADE-Uno)**, **[JavaScript](https://github.com/MADE-Apps/MADE.js)**, **[Vue.js](https://github.com/MADE-Apps/MADE-Vue))**, and **[Legerity UI testing framework](https://github.com/MADE-Apps/legerity)**
 - 💬 Ask me about **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Windows App Development](https://docs.microsoft.com/en-us/windows/apps/), [Uno Platform](https://platform.uno/), [VueJS](https://vuejs.org/), Azure, and DevOps**
 - 📇 Connect on **[Twitter](https://twitter.com/jamesmcroft), [LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
+
+<br />
 
 <h3 align="center">Technologies & Tools ⚒️</h2>
 
@@ -114,17 +121,12 @@
   </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/jamesmcroft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmcroft&title_color=000&text_color=8e8e8e&icon_color=00A1F1&bg_color=f6f8fa&langs_count=3" alt="James's Top Languages" />
-</a>
-<a href="https://github.com/jamesmcroft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesmcroft&show_icons=true&line_height=27&count_private=true&title_color=000&text_color=8e8e8e&icon_color=00A1F1&bg_color=f6f8fa" alt="James's GitHub Stats" />
-</a>
-</div>
-
 <h3 align="center">Useful Links 🔗</h2>
 
 <p align="center">When I find something dev related that I want to share, you'll find it in my useful links 🙌🏻</p>
 
-- [James's Useful Links](/docs/README.md)
+<div align="center">
+  <a href="./docs/README.md">
+    <h4>James's Useful Links</h4>
+  </a>
+</div>
