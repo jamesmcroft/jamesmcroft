@@ -120,13 +120,3 @@
     </td>
   </tr>
 </table>
-
-<h3 align="center">Useful Links 🔗</h2>
-
-<p align="center">When I find something dev related that I want to share, you'll find it in my useful links 🙌🏻</p>
-
-<div align="center">
-  <a href="./docs/README.md">
-    <h4>James's Useful Links</h4>
-  </a>
-</div>
