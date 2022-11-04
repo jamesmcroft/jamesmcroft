@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/jamesmcroft/github-stats-transparent/output/generated/overview.svg" alt="jamesmcroft GitHub stats" align="right" />
 </a>
 
-- 👨‍💻 I'm currently a **Principal Solution Engineer at [Razor Ltd](https://www.razor.co.uk/)**
+- 👨‍💻 I'm currently a **Principal Innovation Consultant at [Razor Ltd](https://www.razor.co.uk/)**
 - 🏅 Been awarded as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** since 2015
 - 💡 I'm working on **libraries to Make App Development Easier ([.NET](https://github.com/MADE-Apps/MADE.NET)**, **[Uno Platform](https://github.com/MADE-Apps/MADE-Uno)**, **[JavaScript](https://github.com/MADE-Apps/MADE.js)**, **[Vue.js](https://github.com/MADE-Apps/MADE-Vue))**, and **[Legerity UI testing framework](https://github.com/MADE-Apps/legerity)**
 - 💬 Ask me about **enterprise software development**, **DevOps**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Windows App Development](https://docs.microsoft.com/en-us/windows/apps/), [Uno Platform](https://platform.uno/), and [Vue.js](https://vuejs.org/)**
