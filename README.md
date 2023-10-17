@@ -3,22 +3,24 @@
 <h2 align="center">Hey hey 👋 I'm James</h2>
 <p align="center">
   <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-jamescroft.co.uk-yellow?color=%23ecb61e&logo=rss&style=flat-square"></a>
-  <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jamesmcroft?color=%231d9bf0&label=Twitter&logo=twitter&style=flat-square"></a>
+  <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-jamesmcroft-blue?style=flat-square&logo=twitter&style=flat-square"></a>
   <a href="https://stackoverflow.com/users/1488425/james-croft"><img alt="StackOverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/1488425?color=%23f48225&label=StackOverflow&logo=stackoverflow&style=flat-square"></a>
-  <a href="https://mvp.microsoft.com/en-US/PublicProfile/5001534"><img alt="Microsoft MVP" src="https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development-blue?style=flat-square&logo=microsoft&color=%230077d5"></a>
+  <a href="https://mvp.microsoft.com/en-US/PublicProfile/5001534"><img alt="Ex-Microsoft MVP" src="https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development/Developer%20Technologies-blue?style=flat-square&logo=microsoft&color=%230077d5"></a>
 </p>
 
 <a href="#">
   <img src="https://raw.githubusercontent.com/jamesmcroft/github-stats-transparent/output/generated/overview.svg" alt="jamesmcroft GitHub stats" align="right" />
 </a>
 
-- 👨‍💻 I'm currently a **Principal Innovation Consultant at [Razor Ltd](https://www.razor.co.uk/)**
-- 🏅 Been awarded as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** since 2015
-- 💡 I'm working on **libraries to Make App Development Easier ([.NET](https://github.com/MADE-Apps/MADE.NET)**, **[Uno Platform](https://github.com/MADE-Apps/MADE-Uno)**, **[JavaScript](https://github.com/MADE-Apps/MADE.js)**, **[Vue.js](https://github.com/MADE-Apps/MADE-Vue))**, and **[Legerity UI testing framework](https://github.com/MADE-Apps/legerity)**
-- 💬 Ask me about **enterprise software development**, **DevOps**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Windows App Development](https://docs.microsoft.com/en-us/windows/apps/), [Uno Platform](https://platform.uno/), and [Vue.js](https://vuejs.org/)**
+- 👨‍💻 I'm currently a **Cloud Customer Engineer at Microsoft**
+- 🏅 Previously recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** from 2015-2023
+- 💡 I'm working on **libraries to Make App Development Easier**, and the **[Legerity UI testing framework](https://github.com/MADE-Apps/legerity)**
+- 💬 Ask me about **software development**, **DevOps**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Windows App Development](https://docs.microsoft.com/en-us/windows/apps/)**, **[Uno Platform](https://platform.uno/)**, and **[Vue.js](https://vuejs.org/)**
 - 📇 Connect on **[Twitter](https://twitter.com/jamesmcroft), [LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
 
 <br />
+
+<p align="center"><strong>Note: This is a private, personal account. Any code repositories created as jamesmcroft or MADE Apps are not linked with my work at Microsoft.</strong></p>
 
 <h3 align="center">Technologies & Tools ⚒️</h2>
 
