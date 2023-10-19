@@ -14,8 +14,7 @@
 
 - 👨‍💻 I'm currently a **Cloud Customer Engineer at Microsoft**
 - 🏅 Previously recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** from 2015-2023
-- 💡 I'm working on **libraries to Make App Development Easier**, and the **[Legerity UI testing framework](https://github.com/MADE-Apps/legerity)**
-- 💬 Ask me about **software development**, **DevOps**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Windows App Development](https://docs.microsoft.com/en-us/windows/apps/)**, **[Uno Platform](https://platform.uno/)**, and **[Vue.js](https://vuejs.org/)**
+- 💬 Ask me about **cloud app development**, **cloud native**, **DevOps**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Python](https://www.python.org/)**, and **[TypeScript](https://www.typescriptlang.org/)**
 - 📇 Connect on **[Twitter](https://twitter.com/jamesmcroft), [LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
 
 <br />
