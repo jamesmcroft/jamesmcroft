@@ -1,12 +1,6 @@
 <img src="https://github.com/jamesmcroft/jamesmcroft/blob/master/assets/PersonalBanner.png" alt="jamesmcroft GitHub banner" />
 
-<h2 align="center">Hey hey 👋 I'm James</h2>
-<p align="center">
-  <a href="https://www.jamescroft.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-jamescroft.co.uk-yellow?color=%23ecb61e&logo=rss&style=flat-square"></a>
-  <a href="https://twitter.com/jamesmcroft"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-jamesmcroft-blue?style=flat-square&logo=twitter&style=flat-square"></a>
-  <a href="https://stackoverflow.com/users/1488425/james-croft"><img alt="StackOverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/1488425?color=%23f48225&label=StackOverflow&logo=stackoverflow&style=flat-square"></a>
-  <a href="https://mvp.microsoft.com/en-US/PublicProfile/5001534"><img alt="Ex-Microsoft MVP" src="https://img.shields.io/badge/Microsoft%20MVP-Windows%20Development/Developer%20Technologies-blue?style=flat-square&logo=microsoft&color=%230077d5"></a>
-</p>
+<h2 align="center">Hey everyone 👋 I'm James</h2>
 
 <a href="#">
   <img src="https://raw.githubusercontent.com/jamesmcroft/github-stats-transparent/output/generated/overview.svg" alt="jamesmcroft GitHub stats" align="right" />
