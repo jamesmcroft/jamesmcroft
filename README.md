@@ -70,36 +70,36 @@
       <p>Typescript</p>
     </td>
     <td align="center" width="96">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="./assets/icons/python.png" width="48" height="48" alt="Python" />
+      </a>
+      <p>Python</p>
+    </td>
+    <td align="center" width="96">
       <a href="https://vuejs.org/" target="_blank">
         <img src="./assets/icons/vuejs.png" width="48" height="48" alt="Vue JS" />
       </a>
       <p>Vue.js</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://kubernetes.io/" target="_blank">
         <img src="./assets/icons/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <p>Kubernetes</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/" target="_blank">
-        <img src="./assets/icons/azure.svg" width="48" height="48" alt="Azure" />
+      <a href="https://azure.microsoft.com/en-gb/services/cognitive-services/#overview" target="_blank">
+        <img src="./assets/icons/azure-cognitive-services.svg" width="48" height="48" alt="Azure Cognitive Services" />
       </a>
-      <p>Microsoft Azure</p>
+      <p>Azure AI/ML</p>
     </td>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/iot-hub/#overview" target="_blank">
-        <img src="./assets/icons/azure-iot-hub.svg" width="48" height="48" alt="Azure IoT" />
+      <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank">
+        <img src="./assets/icons/openai.svg" width="48" height="48" alt="Azure OpenAI" />
       </a>
-      <p>Azure IoT</p>
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/logic-apps/#overview" target="_blank">
-        <img src="./assets/icons/azure-logic-apps.svg" width="48" height="48" alt="Azure Logic Apps" />
-      </a>
-      <p>Azure Logic Apps</p>
+      <p>Azure OpenAI</p>
     </td>
     <td align="center" width="96">
       <a href="https://azure.microsoft.com/en-gb/services/functions/#overview" target="_blank">
@@ -108,18 +108,24 @@
       <p>Azure Functions</p>
     </td>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/products/azure-sql/#overview" target="_blank">
-        <img src="./assets/icons/azure-sql.svg" width="48" height="48" alt="Azure SQL Server" />
+      <a href="https://azure.microsoft.com/en-gb/services/logic-apps/#overview" target="_blank">
+        <img src="./assets/icons/azure-logic-apps.svg" width="48" height="48" alt="Azure Logic Apps" />
       </a>
-      <p>SQL Server</p>
+      <p>Azure Logic Apps</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/cognitive-services/#overview" target="_blank">
-        <img src="./assets/icons/azure-cognitive-services.svg" width="48" height="48" alt="Azure Cognitive Services" />
+      <a href="https://azure.microsoft.com/en-gb/services/iot-hub/#overview" target="_blank">
+        <img src="./assets/icons/azure-iot-hub.svg" width="48" height="48" alt="Azure IoT" />
       </a>
-      <p>Azure AI/ML</p>
+      <p>Azure IoT</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/products/azure-sql/#overview" target="_blank">
+        <img src="./assets/icons/azure-sql.svg" width="48" height="48" alt="Azure SQL Server" />
+      </a>
+      <p>SQL Server</p>
     </td>
     <td align="center" width="96">
       <a href="https://azure.microsoft.com/en-gb/services/key-vault/#overview" target="_blank">
@@ -132,12 +138,6 @@
         <img src="./assets/icons/azure-storage.svg" width="48" height="48" alt="Azure Storage" />
       </a>
       <p>Azure Storage</p>
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/stream-analytics/#overview" target="_blank">
-        <img src="./assets/icons/azure-stream-analytics.svg" width="48" height="48" alt="Azure Stream Analytics" />
-      </a>
-      <p>Azure Stream Analytics</p>
     </td>
     <td align="center" width="96">
       <a href="https://azure.microsoft.com/en-gb/services/active-directory/#overview" target="_blank">
