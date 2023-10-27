@@ -13,7 +13,7 @@
 
 <br />
 
-<p align="center"><strong>Note: This is a private, personal account. Any code repositories created as jamesmcroft or MADE Apps are not linked with my work at Microsoft.</strong></p>
+<p align="center"><strong>Note: This is a private, personal account. Any code repositories created as jamesmcroft or MADE Apps are not linked with my work at Microsoft unless explicity stated.</strong></p>
 
 <h3 align="center">Technologies & Tools ⚒️</h2>
 
