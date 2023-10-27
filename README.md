@@ -2,10 +2,6 @@
 
 <h2 align="center">Hey everyone 👋 I'm James</h2>
 
-<a href="#">
-  <img src="https://raw.githubusercontent.com/jamesmcroft/github-stats-transparent/output/generated/overview.svg" alt="jamesmcroft GitHub stats" align="right" />
-</a>
-
 - 👨‍💻 I'm currently a **Cloud Customer Engineer at Microsoft**
 - 🏅 Previously recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** from 2015-2023
 - 💬 Ask me about **cloud app development**, **cloud native**, **DevOps**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Python](https://www.python.org/)**, and **[TypeScript](https://www.typescriptlang.org/)**
