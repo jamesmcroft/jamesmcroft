@@ -1,11 +1,11 @@
-<img src="https://github.com/jamesmcroft/jamesmcroft/blob/master/assets/PersonalBanner.png" alt="jamesmcroft GitHub banner" />
+<img src="./assets/PersonalBanner.png" alt="jamesmcroft GitHub banner" />
 
 <h2 align="center">Hey everyone 👋 I'm James</h2>
 
 - 👨‍💻 I'm currently a **Cloud Customer Engineer at Microsoft**
 - 🏅 Previously recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** from 2015-2023
-- 💬 Ask me about **cloud app development**, **cloud native**, **DevOps**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Python](https://www.python.org/)**, and **[TypeScript](https://www.typescriptlang.org/)**
-- 📇 Connect on **[Twitter](https://twitter.com/jamesmcroft), [LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
+- 💬 Ask me about **AI/ML**, **cloud app development**, **cloud native**, **DevOps**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Python](https://www.python.org/)**, and **[TypeScript](https://www.typescriptlang.org/)**
+- 📇 Connect on **[LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
 - 📃 Get access to my **[recommended articles and samples](./docs/README.md)**
 
 <br />
@@ -62,9 +62,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="./assets/icons/typescript.svg" width="48" height="48" alt="Typescript" />
+        <img src="./assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <p>Typescript</p>
+      <p>TypeScript</p>
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" target="_blank">
@@ -81,52 +81,40 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://kubernetes.io/" target="_blank">
-        <img src="./assets/icons/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <p>Kubernetes</p>
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/cognitive-services/#overview" target="_blank">
-        <img src="./assets/icons/azure-cognitive-services.svg" width="48" height="48" alt="Azure Cognitive Services" />
-      </a>
-      <p>Azure AI/ML</p>
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank">
-        <img src="./assets/icons/openai.svg" width="48" height="48" alt="Azure OpenAI" />
+      <a href="https://azure.microsoft.com/en-gb/products/ai-services/openai-service" target="_blank">
+        <img src="./assets/icons/azure-openai.svg" width="48" height="48" alt="Azure OpenAI" />
       </a>
       <p>Azure OpenAI</p>
     </td>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/functions/#overview" target="_blank">
+      <a href="https://azure.microsoft.com/en-gb/products/ai-services" target="_blank">
+        <img src="./assets/icons/azure-cognitive-services.svg" width="48" height="48" alt="Azure AI Services" />
+      </a>
+      <p>Azure AI Services</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/products/machine-learning" target="_blank">
+        <img src="./assets/icons/azure-machine-learning.svg" width="48" height="48" alt="Azure ML" />
+      </a>
+      <p>Azure Machine Learning</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/products/container-apps" target="_blank">
+        <img src="./assets/icons/azure-container-apps.svg" width="48" height="48" alt="Azure Container Apps" />
+      </a>
+      <p>Azure Container Apps</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/en-gb/products/functions" target="_blank">
         <img src="./assets/icons/azure-functions.svg" width="48" height="48" alt="Azure Functions" />
       </a>
       <p>Azure Functions</p>
     </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/logic-apps/#overview" target="_blank">
-        <img src="./assets/icons/azure-logic-apps.svg" width="48" height="48" alt="Azure Logic Apps" />
-      </a>
-      <p>Azure Logic Apps</p>
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/iot-hub/#overview" target="_blank">
-        <img src="./assets/icons/azure-iot-hub.svg" width="48" height="48" alt="Azure IoT" />
-      </a>
-      <p>Azure IoT</p>
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/products/azure-sql/#overview" target="_blank">
-        <img src="./assets/icons/azure-sql.svg" width="48" height="48" alt="Azure SQL Server" />
-      </a>
-      <p>SQL Server</p>
-    </td>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/key-vault/#overview" target="_blank">
-        <img src="./assets/icons/azure-keyvault.svg" width="48" height="48" alt="Azure Key Vault" />
+      <a href="https://azure.microsoft.com/en-gb/products/key-vault" target="_blank">
+        <img src="./assets/icons/azure-key-vault.svg" width="48" height="48" alt="Azure Key Vault" />
       </a>
       <p>Azure Key Vault</p>
     </td>
@@ -137,21 +125,33 @@
       <p>Azure Storage</p>
     </td>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-gb/services/active-directory/#overview" target="_blank">
-        <img src="./assets/icons/azure-ad.svg" width="48" height="48" alt="Azure Active Directory" />
+      <a href="https://azure.microsoft.com/en-gb/products/azure-sql" target="_blank">
+        <img src="./assets/icons/azure-sql.svg" width="48" height="48" alt="Azure SQL Server" />
       </a>
-      <p>Azure Active Directory</p>
+      <p>SQL Server</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-id" target="_blank">
+        <img src="./assets/icons/microsoft-entra-id.svg" width="48" height="48" alt="Microsoft Entra ID" />
+      </a>
+      <p>Microsoft Entra ID</p>
+    </td>
+    <td align="center" width="96">
+      <a href="https://opentelemetry.io/" target="_blank">
+        <img src="./assets/icons/opentelemetry.png" width="48" height="48" alt="OpenTelemetry" />
+      </a>
+      <p>OpenTelemetry</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-gb/microsoft-365/compare-microsoft-365-enterprise-plans" target="_blank">
+      <a href="https://www.microsoft.com/en-gb/microsoft-365/enterprise/microsoft365-plans-and-pricing" target="_blank">
         <img src="./assets/icons/office.svg" width="48" height="48" alt="Microsoft Office" />
       </a>
       <p>Microsoft 365</p>
     </td>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2" target="_blank">
+      <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview" target="_blank">
         <img src="./assets/icons/powershell.svg" width="48" height="48" alt="PowerShell" />
       </a>
       <p>PowerShell</p>
@@ -163,7 +163,7 @@
       <p>Bash</p>
     </td>
     <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+      <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank">
         <img src="./assets/icons/azure-devops.svg" width="48" height="48" alt="Azure DevOps" />
       </a>
       <p>Azure DevOps</p>
