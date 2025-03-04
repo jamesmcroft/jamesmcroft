@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey everyone 👋 I'm James</h2>
 
-- 👨‍💻 I'm currently a **Cloud Customer Engineer at Microsoft**
+- 👨‍💻 I'm currently a **Senior Customer Engineer at Microsoft**
 - 🏅 Previously recognized as a **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001534)** from 2015-2024
 - 💬 Ask me about **AI/ML**, **cloud app development**, **cloud native**, **DevOps**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Python](https://www.python.org/)**, and **[TypeScript](https://www.typescriptlang.org/)**
 - 📇 Connect on **[LinkedIn](https://www.linkedin.com/in/jmcroft/), and GitHub**
